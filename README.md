@@ -1,8 +1,24 @@
-# React + Vite
+React + Vite Frontend for TeslaCar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a frontend implementation for Tesla cars, built using React and Vite. It provides an interactive and dynamic user experience, leveraging modern tools and libraries for a fast and scalable web application.
 
-Currently, two official plugins are available:
+Features
+Dynamic Car Details: View and interact with various car models, colors, and variants.
+Interactive UI: Built with Material-UI for a professional and responsive design.
+State Management: Redux for seamless state handling across the app.
+Routing: React Router DOM for navigation between pages.
+API Integration: Axios for making API calls to fetch car details and variants.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Core Libraries:
+React: Frontend framework for building user interfaces.
+Vite: Development environment for fast builds.
+
+Additional Libraries:
+React-Router-DOM: For handling client-side routing.
+Redux: For global state management.
+Axios: For making HTTP requests to interact with APIs.
+Material-UI (MUI): For creating responsive and modern UI components.
+MUI Icons: A collection of ready-to-use icons for the app.
+Styled Emotion: For applying custom styles to components.
+
+Followed a folder structure for this project.
